@@ -1,0 +1,16 @@
+nav{
+    font-size: 20px;
+    font-weight: 700px;
+    line-height: 1.5em;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+}
+.header{
+    color: black;
+}
