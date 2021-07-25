@@ -1,4 +1,4 @@
-nav{
+nav{ /*styling the nav row*/
     font-size: 20px;
     font-weight: 700px;
     line-height: 1.5em;
@@ -26,7 +26,7 @@ main {
     height: 460px;
 
 }
-.intro{
+.intro{/*styling the brief description*/
     margin-left: 50px;
     
 }
@@ -47,7 +47,7 @@ main {
 
 }
 
-.together{
+.together{/*styling the second page*/
     width: 100%;
     height: 500px;
     background-color:white;
@@ -77,7 +77,7 @@ main {
     margin-right: 70px;
     text-align: center;
 }
-.container{
+.container{/*styling for the flexbox and its items*/
     background-color:  #C9ECB5;
     width: 100%;
     height: 620px;
@@ -116,7 +116,7 @@ text-align: center;
 
 }
 
-.hotdeals{
+.hotdeals{/* styling for the hotdeals page*/
     background-color:  #6CB840;
     width: 100%;
     height: 700px;
@@ -162,7 +162,7 @@ margin-left:-200px ;
     padding-top: 0;
     margin-top: 0;
 }
-.contactus{
+.contactus{ /* styling for the contact us page*/
     background-color: #FFD77C;
     width: 100%;
     height: 500px;
@@ -178,7 +178,7 @@ margin-left:-200px ;
     border-radius: 7px;
     
 }
-.footer{
+.footer{/*footer styling*/
     background-color:   #C9ECB5
 
 

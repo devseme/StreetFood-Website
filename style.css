@@ -1,4 +1,4 @@
-#available{
+#available{/*continuation of footer styling*/
     margin-top: 10px;
 }
 #address{
@@ -31,4 +31,4 @@ footer{
 #sendbutton>a{
     color: white;
     text-decoration: none;
-}
+}/*end of styling*/
