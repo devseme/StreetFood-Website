@@ -18,7 +18,7 @@ footer{
     flex-direction: row;
     justify-content: space-around;
     margin-top:  20px;  
-    height: 200px;
+    height: 260px;
 }
 #sendbutton{
     background-color: #6CB840;

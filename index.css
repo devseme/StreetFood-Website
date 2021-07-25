@@ -21,7 +21,7 @@ nav>p{
 
 
 main {
-    background-color:  #C9ECB5;
+    background-color:   #649549;
     width: 100%;
     height: 460px;
 
@@ -120,10 +120,18 @@ text-align: center;
     height: 620px;
 
 }
+.hotdeals>h2{
+    text-align: center;
+    
+}
+.hotdeals>h1,p{
+    margin-top: 50px;}
+
 .hotdeals>img{
     float: left;
-    display: flex;
-    flex-direction: column;
+    width: 450px;
+    height: 550px;
+
 }
 .contactus{
     background-color: pink;
