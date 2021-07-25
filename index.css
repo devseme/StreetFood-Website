@@ -15,8 +15,57 @@ nav{
     color: black;
 }
 
-
-
+.together{
+    width: 100%;
+    height: 300px;
+}
 .together>img{
-    float:left;
+    float: left;
+    position: relative;
+    
+}
+.container{
+    background-color: #FFD77C ;
+    width: 100%;
+    height: 700px;
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.container>#burger1{
+    width: 100px;
+    height:50px;
+    
+}
+.container>#burger2{
+    width: 100px;
+    height:50px;
+}
+.container>#burger3{
+    width: 100px;
+    height:50px;
+}
+.container>#burger4{
+    width: 100px;
+    height:50px;
+}
+.container>#burger5{
+    width: 100px;
+    height:50px;
+}
+.container>#burger6{
+    width: 100px;
+    height:50px;
+}
+
+.hotdeals{
+    background-color: #C9ECB5;
+    width: 100%;
+    height: 620px;
+
+}
+.hotdeals>img{
+    float: left;
+    display: flex;
+    flex-direction: column;
 }
