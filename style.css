@@ -1,3 +1,7 @@
+*{
+    font-family: "poppins";
+}
+
 #available{/*continuation of footer styling*/
     margin-top: 10px;
 }
@@ -31,4 +35,6 @@ footer{
 #sendbutton>a{
     color: white;
     text-decoration: none;
+
+
 }/*end of styling*/
