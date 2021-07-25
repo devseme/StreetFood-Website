@@ -1,0 +1,30 @@
+#available{
+    margin-top: 10px;
+}
+#address{
+margin-top: 45px;
+
+}
+#socials{
+    margin-top: 45px;
+   
+    
+}
+#iglogo{
+    margin-top: 10px;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:  20px;  
+    height: 200px;
+}
+#sendbutton{
+    background-color: #6CB840;
+    width: 60px;
+    height: auto;
+    color: white;
+    padding: 7px;
+    margin-top: 30px;
+}
