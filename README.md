@@ -1,4 +1,4 @@
-# {StreetFood-Website}
+# StreetFood-Website
 #### {this is my second IP at Moringa school}
 #### By **{Ochenge Ian}**
 ## Description
