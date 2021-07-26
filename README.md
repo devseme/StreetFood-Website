@@ -1,5 +1,5 @@
-##Project author Name:OCHENGE IAN
-##Project name:streetFood-Website
+-##Project author Name:OCHENGE IAN
+-##Project name:streetFood-Website
 
 
 ####This is my independent project 2 in my beginner learning of HTML and CSS.It is a home page design working given by the technical mentor for a
