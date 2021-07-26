@@ -6,4 +6,4 @@ It cotains the header part;with a nav row and a description
 The main contains 3 parts and finally the footer part as the ending
 
 github link:https://github.com/devseme/StreetFood-Website/new/master
-github pages link:
+github pages link:https://devseme.github.io/StreetFood-Website/
